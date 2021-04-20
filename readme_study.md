@@ -1,5 +1,6 @@
-> [金鑫的NPM包](https://www.npmjs.com/package/easy-create)
-> [项目的备注地址](https://github.com/jikeyChang/vue-adimn-study/blob/master/build/webpack.base.conf.js)
+> [金鑫的NPM包地址](https://www.npmjs.com/package/easy-create)
+
+> [项目的备注对应地址](https://github.com/jikeyChang/vue-adimn-study/blob/master/build/webpack.base.conf.js)
 ## Webpack
 webpack是一个打包工具
 
