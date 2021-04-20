@@ -1,3 +1,4 @@
+> [金鑫的NPM包](https://www.npmjs.com/package/easy-create)
 ## Webpack
 webpack是一个打包工具
 
